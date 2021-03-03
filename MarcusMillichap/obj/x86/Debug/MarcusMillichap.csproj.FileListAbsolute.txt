@@ -1,0 +1,14 @@
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/MarcusMillichap.exe
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/MarcusMillichap.pdb
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/nunit.framework.dll
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/SeleniumExtras.WaitHelpers.dll
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/WebDriver.dll
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/WebDriver.Support.dll
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/WebDriver.xml
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/WebDriver.Support.xml
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/bin/Debug/nunit.framework.xml
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/obj/x86/Debug/MarcusMillichap.csprojAssemblyReference.cache
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/obj/x86/Debug/MarcusMillichap.csproj.CoreCompileInputs.cache
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/obj/x86/Debug/MarcusMillichap.csproj.CopyComplete
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/obj/x86/Debug/MarcusMillichap.exe
+/home/kristina/Projects/MarcusMillichap/MarcusMillichap/obj/x86/Debug/MarcusMillichap.pdb
